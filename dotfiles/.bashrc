@@ -30,3 +30,5 @@ export VISUAL=nvim
 export EDITOR=nvim
 
 [ -f ~/.bashrc_local ] && source ~/.bashrc_local
+
+alias ls="eza"
