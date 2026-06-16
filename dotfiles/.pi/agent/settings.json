@@ -1,21 +1,20 @@
 {
-  "defaultModel": "gpt-5.5",
-  "defaultProvider": "openai-codex",
+  "defaultModel": "kimi-k2.6",
+  "defaultProvider": "ollama",
   "hideThinkingBlock": false,
   "lastChangelogVersion": "0.79.4",
   "theme": "catppuccin-mocha",
   "enableInstallTelemetry": false,
   "enabledModels": [
-    "ollama/gemma4:31b-cloud",
     "anthropic/claude-opus-4-7",
     "anthropic/claude-sonnet-4-6",
     "openai-codex/gpt-5.5",
     "openai-codex/gpt-5.4-mini",
     "openai-codex/gpt-5.4",
-    "ollama/kimi-k2.6:cloud",
-    "ollama/kimi-k2.5:cloud",
-    "ollama/deepseek-v4-pro:cloud",
-    "ollama/deepseek-v4-flash:cloud"
+    "ollama/kimi-k2.6",
+    "ollama/minimax-m3",
+    "ollama/deepseek-v4-pro",
+    "ollama/deepseek-v4-flash"
   ],
   "defaultThinkingLevel": "high",
   "packages": [
