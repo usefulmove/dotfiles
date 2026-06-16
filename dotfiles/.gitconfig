@@ -1,0 +1,6 @@
+[user]
+	email = duane.edmonds@gmail.com
+	name = Duane Edmonds
+
+[credential "https://github.com"]
+	helper = !gh auth git-credential
