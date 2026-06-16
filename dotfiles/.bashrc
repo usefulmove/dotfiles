@@ -32,3 +32,4 @@ export EDITOR=nvim
 [ -f ~/.bashrc_local ] && source ~/.bashrc_local
 
 alias ls="eza"
+alias glow="glow -s dracula"
