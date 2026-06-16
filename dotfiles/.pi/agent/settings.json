@@ -23,5 +23,8 @@
     "npm:@ollama/pi-web-search"
   ],
   "showHardwareCursor": true,
-  "quietStartup": false
+  "quietStartup": true,
+  "compaction": {
+    "enabled": false
+  }
 }
