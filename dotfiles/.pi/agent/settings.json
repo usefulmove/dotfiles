@@ -1,6 +1,6 @@
 {
-  "defaultModel": "kimi-k2.6",
-  "defaultProvider": "ollama",
+  "defaultModel": "gpt-5.5",
+  "defaultProvider": "openai-codex",
   "hideThinkingBlock": false,
   "lastChangelogVersion": "0.79.4",
   "theme": "catppuccin-mocha",
