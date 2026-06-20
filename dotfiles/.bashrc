@@ -33,3 +33,6 @@ export EDITOR=nvim
 
 alias ls="eza"
 alias glow="glow -s dracula"
+
+# npm global packages (per-user prefix, no sudo needed)
+export PATH="$HOME/.npm-global/bin:$PATH"
