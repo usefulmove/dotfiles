@@ -2,7 +2,7 @@
 name: evaluator
 description: evaluate output against a contract — read-only, runs verification commands
 tools: read bash find grep ls web_search web_fetch
-model: ollama/kimi-k2.6
+model: ollama/glm-5.2
 thinking-level: high
 ---
 

@@ -1,8 +1,8 @@
 {
-  "defaultModel": "gpt-5.5",
-  "defaultProvider": "openai-codex",
+  "defaultModel": "glm-5.2",
+  "defaultProvider": "ollama",
   "hideThinkingBlock": false,
-  "lastChangelogVersion": "0.79.4",
+  "lastChangelogVersion": "0.79.8",
   "theme": "catppuccin-mocha",
   "enableInstallTelemetry": false,
   "enabledModels": [
@@ -14,7 +14,7 @@
     "ollama/kimi-k2.6",
     "ollama/minimax-m3",
     "ollama/deepseek-v4-pro",
-    "ollama/deepseek-v4-flash"
+    "ollama/glm-5.2"
   ],
   "defaultThinkingLevel": "high",
   "packages": [
